@@ -1,2 +1,2 @@
-# departement1
+# Small-react-apps
 Created with CodeSandbox
